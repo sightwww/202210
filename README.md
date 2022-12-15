@@ -1,7 +1,7 @@
 # FreeProxy
-[![GitHub Workflow Status](https://github.com/sightwww/freeproxy2210/actions/workflows/get-proxies.yml/badge.svg)](https://github.com/sightwww/freeproxy2210/actions/workflows/get-proxies.yml) 
+[![GitHub Workflow Status](https://github.com/alanbobs999/TopFreeProxies/actions/workflows/get-proxies.yml/badge.svg)](https://github.com/alanbobs999/TopFreeProxies/actions/workflows/get-proxies.yml) 
 
-![Watchers](https://img.shields.io/github/watchers/sightwww/freeproxy2210) ![Stars](https://img.shields.io/github/stars/sightwww/freeproxy2210) ![Forks](https://img.shields.io/github/forks/sightwww/freeproxy2210) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=alanbobs999.topfreeproxies) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Watchers](https://img.shields.io/github/watchers/alanbobs999/TopFreeProxies) ![Stars](https://img.shields.io/github/stars/alanbobs999/TopFreeProxies) ![Forks](https://img.shields.io/github/forks/alanbobs999/TopFreeProxies) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=alanbobs999.topfreeproxies) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 [仓库介绍](https://github.com/sightwww/freeproxy2210#仓库介绍) | [使用方法](https://github.com/sightwww/freeproxy2210#使用方法)
 
@@ -19,8 +19,8 @@
 ## 使用方法
 将以下订阅链接导入相应客户端即可。链接中大部分为 SS 协议节点，少量 Vmess, Trojan ,SSR 协议节点，建议选择协议支持完整的客户端。
 
-- [多协议Base64编码](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/Eternity)
-- [Clash](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/Eternity.yaml)
+- [多协议Base64编码](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity)
+- [Clash](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yaml)
 
 
 >`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
