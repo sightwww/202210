@@ -1,9 +1,9 @@
-# TopFreeProxies
+# FreeProxy
 [![GitHub Workflow Status](https://github.com/sightwww/freeproxy2210/actions/workflows/get-proxies.yml/badge.svg)](https://github.com/sightwww/freeproxy2210/actions/workflows/get-proxies.yml) 
 
 ![Watchers](https://img.shields.io/github/watchers/sightwww/freeproxy2210) ![Stars](https://img.shields.io/github/stars/sightwww/freeproxy2210) ![Forks](https://img.shields.io/github/forks/sightwww/freeproxy2210) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=alanbobs999.topfreeproxies) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
-[仓库介绍](https://github.com/sightwww/freeproxy2210#仓库介绍) | [使用方法](https://github.com/sightwww/freeproxy2210#使用方法) | [节点信息](https://github.com/sightwww/freeproxy2210#节点信息) | [软件推荐](https://github.com/sightwww/freeproxy2210#客户端选择) | [机场推荐](https://github.com/sightwww/freeproxy2210#机场推荐) | [仓库声明](https://github.com/sightwww/freeproxy2210#仓库声明)
+[仓库介绍](https://github.com/sightwww/freeproxy2210#仓库介绍) | [使用方法](https://github.com/sightwww/freeproxy2210#使用方法) | [节点信息](https://github.com/sightwww/freeproxy2210#节点信息) | [软件推荐](https://github.com/sightwww/freeproxy2210#客户端选择)
 
 ## 仓库介绍
 本仓库自动化功能全部基于 `GitHub Actions` 实现，如有需要可以自行 Fork 实现个性化需求，功能配置在 `./utils/config.ini` 配置文件中。
@@ -22,10 +22,6 @@
 - [多协议Base64编码](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/Eternity)
 - [Clash](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/Eternity.yaml)
 
-另有国内加速链接：
-
-- [多协议Base64编码](https://fastly.jsdelivr.net/gh/sightwww/freeproxy2210@master/Eternity)
-- [Clash](https://fastly.jsdelivr.net/gh/sightwww/freeproxy2210@master/Eternity.yaml)
 
 >`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
 >
@@ -187,20 +183,3 @@
 |                              ×                               | [ShadowsocksR-android](https://github.com/HMBSbige/ShadowsocksR-Android/releases) | SSR协议支持，安卓专用 SSR 客户端。                                                |
 |                              ×                               |     [V2rayNG](https://github.com/2dust/v2rayNG/releases)     | SS, Trojan, Vmess, VLESS协议支持，v2ray 内核。                           |
 
-## 机场推荐
-免费节点失效太快，推荐一些性价比高的机场应急使用。
-- [魔戒.net](https://www.mojie.cyou/#/register?code=sAbl0qtT)
-  - 按量计费机场, 1¥10G, 10¥130G
-  - 所有套餐均是一样的节点与一样的服务，所有套餐流量永不过期，用完为止，不限制客户端数量，最高可提供 2Gbps 峰值
-- [大迅云](https://daxun.club/#/register?code=JPmAFPav)
-  - 最低月付 5¥50G, 12¥200G, 购买 12¥ 及以上套餐免费领取奈飞 + 迪士尼 Plus 共享号
-  - 原生IP负载均衡，流媒体解锁晚高峰油管秒开，主打性价比，有试用
-- [阿伟云](https://awcloud.cc/#/register?code=8C18uZwl)
-  - 最低月付 1¥ 起, 9.99¥100G
-  - 无带宽速率限制，有流媒体解锁，香港 BGP 中继线路
-
-## 仓库声明
-订阅节点仅作学习交流使用，只是对网络上节点的优选排序，用于查找资料，学习知识，不做任何违法行为。所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。
-
-## 星标统计
-[![Star History Chart](https://api.star-history.com/svg?repos=sightwww/freeproxy2210&type=Date)](https://star-history.com/#sightwww/freeproxy2210&Date)
