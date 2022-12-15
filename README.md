@@ -1,12 +1,10 @@
 # FreeProxy
-[![GitHub Workflow Status](https://github.com/alanbobs999/TopFreeProxies/actions/workflows/get-proxies.yml/badge.svg)](https://github.com/alanbobs999/TopFreeProxies/actions/workflows/get-proxies.yml) 
 
-![Watchers](https://img.shields.io/github/watchers/alanbobs999/TopFreeProxies) ![Stars](https://img.shields.io/github/stars/alanbobs999/TopFreeProxies) ![Forks](https://img.shields.io/github/forks/alanbobs999/TopFreeProxies) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=alanbobs999.topfreeproxies) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
-[仓库介绍](https://github.com/sightwww/freeproxy2210#仓库介绍) | [使用方法](https://github.com/sightwww/freeproxy2210#使用方法)
+[介绍](https://github.com/sightwww/freeproxy2210#介绍) | [使用方法](https://github.com/sightwww/freeproxy2210#使用方法)
 
-## 仓库介绍
-本仓库自动化功能全部基于 `GitHub Actions` 实现，如有需要可以自行 Fork 实现个性化需求，功能配置在 `./utils/config.ini` 配置文件中。
+## 介绍
+本自动化功能全部基于 `GitHub Actions` 实现，如有需要可以自行 Fork 实现个性化需求，功能配置在 `./utils/config.ini` 配置文件中。
 
 对网络上各免费节点池及博主分享的节点进行测速筛选出较为稳定高速的节点，再导入到仓库中进行分享记录。所筛选的节点链接在仓库 `./sub/sub_list.json` 文件中，其中大部分为其他 `GitHub` 仓库链接，如果大家有好的订阅链接欢迎提交 PR ，这些链接包含的所有节点会合并在仓库 `./sub/sub_merge.txt` 中。
 
