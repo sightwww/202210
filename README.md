@@ -23,7 +23,7 @@
 另有国内加速链接：
 
 - [多协议Base64编码](https://fastly.jsdelivr.net/gh/sightwww/freeproxy2210@master/Eternity)
-
+- [Clash](https://fastly.jsdelivr.net/gh/sightwww/freeproxy2210@master/Eternity.yaml)
 
 >`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
 >
