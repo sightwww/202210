@@ -32,7 +32,7 @@
 
 
 ### 所有节点
-合并节点总数: `2356`
+合并节点总数: `2353`
 [节点链接](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
