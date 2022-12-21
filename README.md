@@ -1,7 +1,7 @@
-# FreeProxy
+# 202210
 
 
-[介绍](https://github.com/sightwww/freeproxy2210#介绍) | [使用方法](https://github.com/sightwww/freeproxy2210#使用方法)
+[介绍](https://github.com/sightwww/202210#介绍) | [使用方法](https://github.com/sightwww/202210#使用方法)
 
 ## 介绍
 本自动化功能全部基于 `GitHub Actions` 实现，如有需要可以自行 Fork 实现个性化需求，功能配置在 `./utils/config.ini` 配置文件中。
@@ -17,13 +17,13 @@
 ## 使用方法
 将以下订阅链接导入相应客户端即可。链接中大部分为 SS 协议节点，少量 Vmess, Trojan ,SSR 协议节点，建议选择协议支持完整的客户端。
 
-- [多协议Base64编码](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/Eternity)
-- [Clash](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/Eternity.yaml)
+- [多协议Base64编码](https://raw.githubusercontent.com/sightwww/202210/master/Eternity)
+- [Clash](https://raw.githubusercontent.com/sightwww/202210/master/Eternity.yaml)
 
 另有国内加速链接：
 
-- [多协议Base64编码](https://fastly.jsdelivr.net/gh/sightwww/freeproxy2210@master/Eternity)
-- [Clash](https://fastly.jsdelivr.net/gh/sightwww/freeproxy2210@master/Eternity.yaml)
+- [多协议Base64编码](https://fastly.jsdelivr.net/gh/sightwww/202210@master/Eternity)
+- [Clash](https://fastly.jsdelivr.net/gh/sightwww/202210@master/Eternity.yaml)
 
 >`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
 >
@@ -33,7 +33,7 @@
 
 ### 所有节点
 合并节点总数: `2788`
-[节点链接](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/sub/sub_merge_base64.txt)
+[节点链接](https://raw.githubusercontent.com/sightwww/202210/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `1709`
