@@ -32,13 +32,13 @@
 
 
 ### 所有节点
-合并节点总数: `2566`
+合并节点总数: `2584`
 [节点链接](https://raw.githubusercontent.com/sightwww/freeproxy2210/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `79`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `156`
-- [freefq/free](https://github.com/freefq/free), 节点数量: `44`
+- [freefq/free](https://github.com/freefq/free), 节点数量: `52`
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), 节点数量: `90`
 - [vpei/Free-Node-Merge](https://github.com/vpei/Free-Node-Merge), 节点数量: `1`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), 节点数量: `21`
@@ -46,11 +46,11 @@
 - [ssrsub/ssr](https://github.com/ssrsub/ssr), 节点数量: `40`
 - [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler), 节点数量: `4215`
 - [yu-steven/openit](https://github.com/yu-steven/openit), 节点数量: `1`
-- [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `29`
+- [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `101`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `27`
 - [wrfree/free](https://github.com/wrfree/free), 节点数量: `51`
 - [changfengoss](https://github.com/ronghuaxueleng/get_v2), 节点数量: `38`
-- [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `141`
+- [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `148`
 - [xrayfree/free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash), 节点数量: `49`
 - [mhmhone/shadowrocket-free-subscribe](https://github.com/mhmhone/shadowrocket-free-subscribe), 节点数量: `1`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `33`
