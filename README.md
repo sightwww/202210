@@ -33,10 +33,11 @@
   
 </details>
 
+<details>
+  
 ## 节点信息
 ### 高速节点
 高速节点数量: `93`
-<details>
   <summary>展开复制节点</summary>
 
     vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug576O5Zu9LXZtZXNzLWpwYXJtLmZpbmV5b28uY2Y0NDMt6KKr5aKZLeS4rei9rDE1Mi43MC44MS42Ni3op6PplIHml6XmnKzlnLDljLpORumdnuiHquWItuWJpyIsImFkZCI6ImpwYXJtLmZpbmV5b28uY2YiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJkNWVlMjQ5LWZlN2ItNDY2OS1hNmQ5LWIzZjVlZWNiOThlNiIsImFpZCI6IjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMTIzIiwiaG9zdCI6ImpwYXJtLmZpbmV5b28uY2YiLCJ0bHMiOiJ0bHMifQ==
@@ -142,7 +143,9 @@
 
 <details>
   <summary>展开</summary>
+  
 ### 节点来源
+  
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `78`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `134`
 - [freefq/free](https://github.com/freefq/free), 节点数量: `33`
