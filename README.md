@@ -1,5 +1,6 @@
 # 202210
-
+<details>
+  <summary>展开</summary>
 
 [介绍](https://github.com/sightwww/202210#介绍) | [使用方法](https://github.com/sightwww/202210#使用方法)
 
@@ -29,6 +30,8 @@
 >
 >需要其它配置可使用订阅转换工具自行转换。
 >自用在线订阅转换网址：[sub-web-modify](https://sub.v1.mk/)
+  
+</details>
 
 ## 节点信息
 ### 高速节点
@@ -137,7 +140,8 @@
 合并节点总数: `2617`
 [节点链接](https://raw.githubusercontent.com/sightwww/202210/master/sub/sub_merge_base64.txt)
 
-
+<details>
+  <summary>展开</summary>
 ### 节点来源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `78`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `134`
@@ -165,3 +169,4 @@
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `310`
 - [ClashNode](https://clashnode.com/f/freenode), 节点数量: `50`
 
+</details>
