@@ -27,9 +27,7 @@
 - [Clash](https://fastly.jsdelivr.net/gh/sightwww/202210@master/Eternity.yaml)
 
 >`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
->
->需要其它配置可使用订阅转换工具自行转换。
->自用在线订阅转换网址：[sub-web-modify](https://sub.v1.mk/)
+
   
 </details>
 
